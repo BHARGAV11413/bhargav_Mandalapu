@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table_html</title>
+</head>
+<body>
+    <h1>Fifa Ballando'r Nominees List 2023</h1>
+    <table border="2px">
+        <tr>
+          <th>S.No</th>
+          <th>Winner</th>
+          <th>winner Pic</th>
+          <th>Category</th>
+          <th>Country Flag</th>
+          <th>View Profile</th>
+          
+        </tr>
+        <tr>
+            <td>1</td>
+          <td>Lionel Messi</td>
+          <td><img  style=height:100px;width=100px; src="https://www.psg.fr/media/232595/messi-argentine-2.jpg?center=0.2927927927927928,0.49549549549549549&mode=crop&width=2000&height=1125&quality=80"></td>
+          <td>Best playamaker</td>
+          <td><img   style=height:100px;width=100px;    src="https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg"></td>
+          <td><a href="https://en.wikipedia.org/wiki/Lionel_Messi">Click Here</a></td>
+          
+          
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Jude Bellingham</td>
+            <td><img   style=height:100px;width=100px; src="https://static.tnn.in/thumb/msid-103076266,thumbsize-62496,width-1280,height-720,resizemode-75/103076266.jpg"></td>
+            <td>Golden Boy</td>
+            <td><img  style=height:100px;width=100px; src="https://cdn.britannica.com/44/344-004-494CC2E8/Flag-England.jpg"></td>
+            <td><a href="https://en.wikipedia.org/wiki/Jude_Bellingham">Click Here</a></td>
+            
+            
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Jamal Musiala </td>
+            <td><img      style=height:100px;width=100px; src="https://sportslens.com/wp-content/uploads/2023/07/Jamal-musiala-820x474.jpg"></td>
+            <td>Top Scorer</td>
+            <td><img style=height:100px;width=100px; src="https://cdn.britannica.com/97/897-004-232BDF01/Flag-Germany.jpg"></td>
+            <td><a href="https://en.wikipedia.org/wiki/Jamal_Musiala">Click Here</a></td>
+            
+            
+          </tr>
+
+      </table>
+</body>
+</html>
