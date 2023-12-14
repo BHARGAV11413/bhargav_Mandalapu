@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+           ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  text-decoration: none;
+} li a:hover {
+  background-color: black;
+}
+
+
+    </style>
+</head>
+<body>
+    <nav>
+    <ul style="background-color: indianred;">
+        <li><a href=" https://www.anarghyacommunications.com/  ">Home</a></li>
+        <li><a href=" http://127.0.0.1:5500/day3_forms.html">Registration</a></li>
+        <li><a href="  http://127.0.0.1:5500/form%20tag%20using%20table.html">Login</a></li>
+        <li><a href="   http://127.0.0.1:5500/Training%20day%202.html">Content</a></li>
+        <li><a href="https://www.anarghyacommunications.com/contact-us   ">Contact</a></li>
+        <li><a href=" https://www.anarghyacommunications.com/about-us  ">About us</a></li>
+      </ul>
+      </nav>
+
+    
+
+
+
+
+</body>
+<br>
+<br 
+></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+div.a { border-style:solid; border-color:violet;border-radius:180px;height:100px; width: 100px; text-align:center; padding: 50px; justify-content:space-between; color:violet;}
+div.b {border-style:solid;border-color:orange ;  border-radius:180px;height:100px; width: 100px; text-align:center; padding: 50px; justify-content:space-around; color:orange;}
+div.c {border-style: solid;border-color:blue;border-radius:2px;height:100px; width: 100px; text-align:center; padding: 50px; justify-content:space-around; color: blue;}
+div.d{border-style:solid;border-color:green ;border-radius:2px;height:100px; width: 100px; text-align:center; padding: 50px; justify-content:space-around;color: green;}
+div.e {border-style:solid;border-color:magenta ;border-radius:180px;height:100px; width: 100px; text-align:center; padding: 50px; justify-content:space-around;color: magenta;}
+div.f {border-style:solid;border-color:red;border-radius:180px;height:100px; width: 100px; text-align:center; padding: 50px; justify-content:space-around;color:red;}
+
+p.1{ text-align:center;}
+</style>
+</head>
+<body>
+    
+    <div class="a">
+       <p class="1"> violet</p>
+    </div> <br> <br>
+    <div class="b">Orange</div><br> <br>
+    <div  class="c">Blue</div> <br> <br>
+     
+    <div class="d">Green</div> <br> <br>
+    <div class="e">Yellow</div> <br> <br>
+    <div class="f">red</div>
+
+
+
+</body>
+</html>
+
+
+
