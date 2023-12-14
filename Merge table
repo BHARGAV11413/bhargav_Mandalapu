@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table-merge</title>
+</head>
+<body>
+    <table border="2px">
+        <tr>
+          <th>Company</th>
+          <th >Contact</th>
+          <th>Country</th>
+        </tr>
+        <tr>
+          <td>Alfreds Futterkiste</td>
+          <td>Maria Anders</td>
+          <td   colspan="2">Germany</td>
+        </tr>
+        <tr>
+          <td>Centro comercial Moctezuma</td>
+          <td>Francisco Chang</td>
+          <td rowspan="2">Mexico</td>
+        </tr>
+      </table>
+
+
+
+    <h1> HTML<td> Col span Attribute</h1>
+      <table border="2px">
+        <tr>
+          <th>Month</th>
+          <th>Savings</th>
+        </tr>
+        <tr>
+          <td>January</td>
+          <td>$100</td>
+        </tr>
+        <tr>
+          <td>February</td>
+          <td>$80</td>
+        </tr>
+        <tr>
+          <td colspan="2">Sum: $180</td>
+        </tr>
+      </table>
+
+
+
+      <h1> HTML<td> Row span Attribute</h1>
+      <table border="2px">
+        <tr>
+          <th>Month</th>
+          <th>Savings</th>
+          <th>Savings for holiday!</th>
+        </tr>
+        <tr>
+          <td>January</td>
+          <td>$100</td>
+          <td rowspan="2">$50</td>
+        </tr>
+        <tr>
+          <td>February</td>
+          <td>$80</td>
+        </tr>
+      </table>
+      
+      
+      
+</body>
+</html>
